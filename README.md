@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Charlie!
 👨🏻‍🎓 Studying Computer Science at Gettysburg College <br/>
 🧗🏻‍♂️ Avid Rock Climber <br/>
-👨🏻‍💻 Interested in learning about all things Computer Science
+👨🏻‍💻 Interested in learning about all things Computer Science <br/>
 💡 Persuing interests in Artificial Intelligence and App Development
 
 # 💻 Tech Stack:
